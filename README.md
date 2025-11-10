@@ -34,4 +34,6 @@ To provide a practical and accessible guide for people without in-depth technica
 - **Editorial Design** following military standards
 - **Versioning** with Git
 
-## 📁 Repository Structure
+## 👨‍💻 Expert
+Márcio F. Reis  
+linkedin.com/in/marcio-marine-corps-soldier/
